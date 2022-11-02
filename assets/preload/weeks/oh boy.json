@@ -1,0 +1,49 @@
+{
+	"storyName": "this is so fuckin old XD",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "street",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"unhappy",
+			"sadmouse",
+			[
+				0,
+				0,
+				20
+			]
+		],
+		[
+			"happy",
+			"happymouse2",
+			[
+				0,
+				0,
+				20
+			]
+		],
+		[
+			"really-happy",
+			"bipolarmouse",
+			[
+				0,
+				0,
+				20
+			]
+		]
+	],
+	"weekCharacters": [
+		"sadmouse",
+		"bf",
+		"gf"
+	],
+	"weekName": "sadmouse"
+}
